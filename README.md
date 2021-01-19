@@ -6,6 +6,6 @@ The subject of the talk was how I wrote a piece of code to demonstrate a very no
 * to detect increasingly smaller effect sizes you need quadratically larger traffic volumes
 * if your traffic volume grows large enough, standard chi-squared statistical testing will increasingly give positive results for economically insignificant improvements
 
-The code I wrote was a Monte Carlo simulation used to rapidly generate the distribution of traffic volume to minimum detectable effect sizes, and make the non-linear realationship therein transparently obvious.
+The code I wrote was a Monte Carlo simulation used to rapidly generate the distribution of traffic volume to minimum detectable effect sizes, and make the non-linear realationship therein transparent.
 
 [View the slides](https://docs.google.com/presentation/d/1lf1tHU4J2LVUj_AMmPqo-qEvq-iIXNjLyBUQhdrpCdg)
